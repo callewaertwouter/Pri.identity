@@ -10,6 +10,8 @@ RAW Body (JSON):
     "rememberme": true
 }
 
+SSL verification is turned off (both Settings and Wrench -> Settings)
+
 ERROR: 400 Bad Request
 "Unable to verify the first certificate"
 authorizationError: "UNABLE_TO_VERIFY_LEAF_SIGNATURE"
